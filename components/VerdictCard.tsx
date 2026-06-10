@@ -1,9 +1,7 @@
 const HEADLINE: Record<string, { verb: string; tone: string }> = {
   PROCEED: { verb: "Yes", tone: "text-emerald-700" },
-  ITERATE: { verb: "Fix these", tone: "text-amber-700" },
-  DECIDE: { verb: "Workable", tone: "text-amber-700" },
+  PROCEED_STRATEGIC: { verb: "Proceed — with strategy", tone: "text-amber-700" },
   ABANDON: { verb: "Don't use", tone: "text-rose-700" },
-  INSUFFICIENT_SIGNAL: { verb: "Not enough signal", tone: "text-neutral-700" },
 };
 
 const AXIS_LABEL: Record<string, string> = {
