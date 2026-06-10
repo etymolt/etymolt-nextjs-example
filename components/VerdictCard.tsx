@@ -10,7 +10,7 @@ const AXIS_LABEL: Record<string, string> = {
   trademark: "Trademark",
   domain: "Domain",
   cultural: "Cultural signal",
-  sound: "Sound",
+  sound_symbolism: "Sound",
   pronunciation: "Pronunciation",
 };
 
